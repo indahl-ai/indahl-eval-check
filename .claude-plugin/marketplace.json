@@ -1,0 +1,17 @@
+{
+  "name": "indahl-eval-check",
+  "owner": {
+    "name": "Heuremen LLC",
+    "url": "https://indahl.ai"
+  },
+  "plugins": [
+    {
+      "name": "indahl-eval-check",
+      "source": "./",
+      "description": "Check a language-model evaluation claim or your own eval run against twelve checks drawn from the Heuremen LLC Standards and the IRIS recounts, including setup, parser, repeat floor, dropped items and intervals. Treats fetched text as data.",
+      "version": "1.0.0",
+      "category": "research",
+      "homepage": "https://indahl.ai/iris"
+    }
+  ]
+}
